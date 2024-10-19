@@ -2,11 +2,8 @@
 
 This Power BI dashboard visualizes car brand sales data, buyer demographics, and purchasing trends. It provides insights into car sales performance, buyer profiles, and trends across various dimensions like gender, time, and pricing.
 
-## Dashboard Preview
-![Dashboard Previ![Screenshot (55)](https://github.com/user-attachments/assets/611ae1de-a655-4ade-aabd-ee7a32da897b)
-ew](path-to-your-image)
+## Key Insights![Screenshot (55)](https://github.com/user-attachments/assets/956e41c1-e3e5-47ba-8c66-4401d8630b31)
 
-## Key Insights
 1. **Total Car Sales by Brand**
    - **Ford** has the highest car sales, with a total count of **89 cars sold**.
    - The **Sales Department** contributed to **70 car sales**.
